@@ -12,4 +12,5 @@
 
 ## Part 4: Test it with SQL
 --select name, description from skill
---  inner join job_skills on skill.id = skills_id;
+--inner join job_skills on skill.id = skills_id
+--order by name ASC;
