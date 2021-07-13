@@ -11,3 +11,5 @@
 --DROP TABLE `techjobs`.`job`;
 
 ## Part 4: Test it with SQL
+--select name, description from skill
+--  inner join job_skills on skill.id = skills_id;
